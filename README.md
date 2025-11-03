@@ -30,7 +30,7 @@ My main focus is **backend architecture**, but I also enjoy crafting dynamic **f
 | **Frontend** | React.js · HTML · CSS · Tailwind CSS · JavaScript |
 | **Backend** | Node.js · NestJS · Express.js |
 | **Database** | PostgreSQL · MongoDB |
-| **Cloud & DevOps** | AWS (S3, EC2, Lambda) · Docker · Kafka |
+| **Cloud & DevOps** | AWS (S3, EC2, Lambda, EventBridge, DynamoDb, AppRunner, SNS, ...) · Docker · Kafka |
 | **Languages** | TypeScript · JavaScript |
 
 ---

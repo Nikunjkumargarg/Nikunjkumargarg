@@ -55,8 +55,9 @@ Here are some featured projects from my GitHub:
 ### 🌱 Currently Exploring
 
 - Microservices architecture & event-driven design  
-- Serverless deployment with AWS Lambda  
-- Advanced frontend state management using Redux / Context API  
+- System Design Soutions
+- Advanced frontend state management using Redux / Context API
+- Deep understanding of Database internals  
 
 ---
 

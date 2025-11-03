@@ -39,9 +39,6 @@ My main focus is **backend architecture**, but I also enjoy crafting dynamic **f
 
 Here are some featured projects from my GitHub:
 
-- ⚙️ [**admin-distributor**](https://github.com/Nikunjkumargarg/admin-distributor) — Distributor management app with CSV upload, OTP verification, and secure login.
-- 💬 [**Message_app**](https://github.com/Nikunjkumargarg/Message_app) — Real-time messaging app built with TypeScript and WebSockets.
-- 🧱 [**NestJs_Project**](https://github.com/Nikunjkumargarg/NestJs_Project) — Example of modular NestJS architecture.
 - ❤️ [**devTinder**](https://github.com/Nikunjkumargarg/devTinder) — Developer matchmaking app using Node.js backend and HTML frontend.
 
 ---

@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Nikunj Garg</h1>
 
 <p align="center">
-  <b>Backend Developer | Node.js | NestJS | PostgreSQL | AWS</b>  
+  <b>Full Stack Developer | Node.js | NestJS | React | PostgreSQL | AWS</b>  
 </p>
 
 <p align="center">
@@ -14,39 +14,39 @@
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-I'm a **Fullstack Developer** with over **3 years of experience** building scalable, secure, and efficient backend systems.  
-Currently working at **Nosh Robotics**, I focus on **API development**, **microservices**, and **cloud integration** using **NestJS**, **TypeScript**, and **PostgreSQL**.
+I'm a **Full Stack Developer** with over **3 years of experience** building scalable, secure, and efficient web applications.  
+My main focus is **backend architecture**, but I also enjoy crafting dynamic **frontend interfaces** using **React** and **Tailwind CSS**.
 
-I enjoy solving real-world problems, optimizing system performance, and occasionally tinkering with frontend technologies like **React** and **Tailwind CSS**.
+💡 I love designing **RESTful APIs**, integrating **microservices**, and deploying on **AWS** for real-world scalability.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack
 
 | Domain | Technologies |
 |--------|---------------|
+| **Frontend** | React.js · HTML · CSS · Tailwind CSS · JavaScript |
 | **Backend** | Node.js · NestJS · Express.js |
-| **Databases** | PostgreSQL · MongoDB |
-| **Frontend** | React · HTML · CSS · Tailwind CSS |
+| **Database** | PostgreSQL · MongoDB |
 | **Cloud & DevOps** | AWS (S3, EC2, Lambda) · Docker · Kafka |
 | **Languages** | TypeScript · JavaScript |
 
 ---
 
-### 🚀 Projects
+### 🧩 Projects
 
-Here are a few highlighted projects from my GitHub:
+Here are some featured projects from my GitHub:
 
-- 🏢 [**admin-distributor**](https://github.com/Nikunjkumargarg/admin-distributor) — Distributor management backend with CSV upload & OTP verification.
-- 💬 [**Message_app**](https://github.com/Nikunjkumargarg/Message_app) — Real-time chat app built with TypeScript and WebSockets.
-- 💡 [**NestJs_Project**](https://github.com/Nikunjkumargarg/NestJs_Project) — Modular NestJS architecture example.
-- ❤️ [**devTinder**](https://github.com/Nikunjkumargarg/devTinder) — Developer matching app built with Node.js and HTML frontend.
+- ⚙️ [**admin-distributor**](https://github.com/Nikunjkumargarg/admin-distributor) — Distributor management app with CSV upload, OTP verification, and secure login.
+- 💬 [**Message_app**](https://github.com/Nikunjkumargarg/Message_app) — Real-time messaging app built with TypeScript and WebSockets.
+- 🧱 [**NestJs_Project**](https://github.com/Nikunjkumargarg/NestJs_Project) — Example of modular NestJS architecture.
+- ❤️ [**devTinder**](https://github.com/Nikunjkumargarg/devTinder) — Developer matchmaking app using Node.js backend and HTML frontend.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikunjkumargarg&show_icons=true&theme=tokyonight" height="160px"/>
@@ -57,9 +57,9 @@ Here are a few highlighted projects from my GitHub:
 
 ### 🌱 Currently Exploring
 
-- Advanced Kafka event-driven microservices  
-- Serverless architecture on AWS  
-- Frontend polishing using React + Tailwind  
+- Microservices architecture & event-driven design  
+- Serverless deployment with AWS Lambda  
+- Advanced frontend state management using Redux / Context API  
 
 ---
 
@@ -73,6 +73,5 @@ Here are a few highlighted projects from my GitHub:
 ---
 
 <p align="center">
-  💬 _"Clean architecture is not a goal — it's a journey."_  
+  🧩 _"Building scalable systems, one module at a time."_  
 </p>
-

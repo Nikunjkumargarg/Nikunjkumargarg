@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Nikunj Garg</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Node.js | NestJS | React | PostgreSQL | AWS</b>  
+  <b>Full Stack Developer | Node.js | NestJS | ReactJs | PostgreSQL | MongoDb | AWS</b>  
 </p>
 
 <p align="center">

@@ -30,7 +30,7 @@ My main focus is **backend architecture**, but I also enjoy crafting dynamic **f
 | **Frontend** | React.js · HTML · CSS · Tailwind CSS · JavaScript |
 | **Backend** | Node.js · NestJS · Express.js |
 | **Database** | PostgreSQL · MongoDB |
-| **Cloud & DevOps** | AWS (S3, EC2, Lambda, EventBridge, DynamoDb, AppRunner, SNS, ...) · Docker · Kafka |
+| **Cloud & DevOps** | AWS (S3, EC2, Lambda, EventBridge, DynamoDb, AppRunner, SNS, Amplify, Cognito, RDS, SQS, ELB, Route53) · Docker · Kafka |
 | **Languages** | TypeScript · JavaScript |
 
 ---
@@ -54,7 +54,8 @@ Here are some featured projects from my GitHub:
 
 ### 🌱 Currently Exploring
 
-- Microservices architecture & event-driven design  
+- Microservices architecture & event-driven design
+- Data Structure And Algorithm
 - System Design Soutions
 - Advanced frontend state management using Redux / Context API
 - Deep understanding of Database internals  
